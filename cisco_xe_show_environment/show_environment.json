@@ -1,0 +1,672 @@
+[
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "PEM Iout",
+        "SLOT": "P0",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "15   A",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "PEM Vout",
+        "SLOT": "P0",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "12   V DC",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "PEM Vin",
+        "SLOT": "P0",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "53   V DC",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "125",
+        "SENSOR": "Temp: Temp 1",
+        "SLOT": "P0",
+        "MINOR": "110",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "115",
+        "READING": "42   Celsius",
+        "CRITICAL": "120"
+    },
+    {
+        "SHUTDOWN": "125",
+        "SENSOR": "Temp: Temp 2",
+        "SLOT": "P0",
+        "MINOR": "110",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "115",
+        "READING": "39   Celsius",
+        "CRITICAL": "120"
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "PEM Iout",
+        "SLOT": "P1",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "16   A",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "PEM Vout",
+        "SLOT": "P1",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "12   V DC",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "PEM Vin",
+        "SLOT": "P1",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "53   V DC",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "125",
+        "SENSOR": "Temp: Temp 1",
+        "SLOT": "P1",
+        "MINOR": "110",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "115",
+        "READING": "35   Celsius",
+        "CRITICAL": "120"
+    },
+    {
+        "SHUTDOWN": "125",
+        "SENSOR": "Temp: Temp 2",
+        "SLOT": "P1",
+        "MINOR": "110",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "115",
+        "READING": "30   Celsius",
+        "CRITICAL": "120"
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "Temp: FC PWM1",
+        "SLOT": "P2",
+        "MINOR": "-3 ",
+        "CURRENT_STATE": "Fan Speed 65%",
+        "MAJOR": "16 ",
+        "READING": "24   Celsius",
+        "CRITICAL": "31 "
+    },
+    {
+        "SHUTDOWN": "112",
+        "SENSOR": "Temp: ARAD+0",
+        "SLOT": "R0",
+        "MINOR": "95 ",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "102",
+        "READING": "32   Celsius",
+        "CRITICAL": "108"
+    },
+    {
+        "SHUTDOWN": "100",
+        "SENSOR": "Temp: N-Inlet",
+        "SLOT": "R0",
+        "MINOR": "70 ",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "75 ",
+        "READING": "32   Celsius",
+        "CRITICAL": "80 "
+    },
+    {
+        "SHUTDOWN": "112",
+        "SENSOR": "Temp: ARAD+1",
+        "SLOT": "R0",
+        "MINOR": "95 ",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "102",
+        "READING": "49   Celsius",
+        "CRITICAL": "108"
+    },
+    {
+        "SHUTDOWN": "105",
+        "SENSOR": "Temp: N-Outlet",
+        "SLOT": "R0",
+        "MINOR": "80 ",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "85 ",
+        "READING": "49   Celsius",
+        "CRITICAL": "90 "
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "VCPU : VX2",
+        "SLOT": "R0",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "843  mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "VCPU : VP1",
+        "SLOT": "R0",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "1794 mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "VCPU : VP2",
+        "SLOT": "R0",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "1196 mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "VCPU : VP3",
+        "SLOT": "R0",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "898  mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "VCPU : VP4",
+        "SLOT": "R0",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "898  mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "VCPU : VH",
+        "SLOT": "R0",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "12139mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "95 ",
+        "SENSOR": "Temp: CPU",
+        "SLOT": "R0",
+        "MINOR": "75 ",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "80 ",
+        "READING": "28   Celsius",
+        "CRITICAL": "85 "
+    },
+    {
+        "SHUTDOWN": "80 ",
+        "SENSOR": "Temp: C-Inlet",
+        "SLOT": "R0",
+        "MINOR": "67 ",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "70 ",
+        "READING": "28   Celsius",
+        "CRITICAL": "75 "
+    },
+    {
+        "SHUTDOWN": "95 ",
+        "SENSOR": "Temp: PCIe Sw",
+        "SLOT": "R0",
+        "MINOR": "75 ",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "80 ",
+        "READING": "35   Celsius",
+        "CRITICAL": "85 "
+    },
+    {
+        "SHUTDOWN": "100",
+        "SENSOR": "Temp: C-Outlet",
+        "SLOT": "R0",
+        "MINOR": "80 ",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "85 ",
+        "READING": "35   Celsius",
+        "CRITICAL": "90 "
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-TPS1-1",
+        "SLOT": "R0",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "2501 mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-TPS1-2",
+        "SLOT": "R0",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "992  mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-TPS2-1",
+        "SLOT": "R0",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "990  mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-TPS2-2",
+        "SLOT": "R0",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "1478 mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-TPS3-1",
+        "SLOT": "R0",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "990  mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-TPS3-2",
+        "SLOT": "R0",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "1476 mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-TPS4-1",
+        "SLOT": "R0",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "998  mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-TPS5-1",
+        "SLOT": "R0",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "996  mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-VH",
+        "SLOT": "R0",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "11888mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-VP2",
+        "SLOT": "R0",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "1801 mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-VP3",
+        "SLOT": "R0",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "3307 mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-VP4",
+        "SLOT": "R0",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "1045 mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-VAUX1",
+        "SLOT": "R0",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "1199 mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-VAUX2",
+        "SLOT": "R0",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "1798 mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "112",
+        "SENSOR": "Temp: ARAD+0",
+        "SLOT": "R1",
+        "MINOR": "95 ",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "102",
+        "READING": "31   Celsius",
+        "CRITICAL": "108"
+    },
+    {
+        "SHUTDOWN": "100",
+        "SENSOR": "Temp: N-Inlet",
+        "SLOT": "R1",
+        "MINOR": "70 ",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "75 ",
+        "READING": "31   Celsius",
+        "CRITICAL": "80 "
+    },
+    {
+        "SHUTDOWN": "112",
+        "SENSOR": "Temp: ARAD+1",
+        "SLOT": "R1",
+        "MINOR": "95 ",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "102",
+        "READING": "49   Celsius",
+        "CRITICAL": "108"
+    },
+    {
+        "SHUTDOWN": "105",
+        "SENSOR": "Temp: N-Outlet",
+        "SLOT": "R1",
+        "MINOR": "80 ",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "85 ",
+        "READING": "49   Celsius",
+        "CRITICAL": "90 "
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "VCPU : VX2",
+        "SLOT": "R1",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "844  mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "VCPU : VP1",
+        "SLOT": "R1",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "1794 mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "VCPU : VP2",
+        "SLOT": "R1",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "1198 mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "VCPU : VP3",
+        "SLOT": "R1",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "898  mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "VCPU : VP4",
+        "SLOT": "R1",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "896  mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "VCPU : VH",
+        "SLOT": "R1",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "12144mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "95 ",
+        "SENSOR": "Temp: CPU",
+        "SLOT": "R1",
+        "MINOR": "75 ",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "80 ",
+        "READING": "29   Celsius",
+        "CRITICAL": "85 "
+    },
+    {
+        "SHUTDOWN": "80 ",
+        "SENSOR": "Temp: C-Inlet",
+        "SLOT": "R1",
+        "MINOR": "67 ",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "70 ",
+        "READING": "29   Celsius",
+        "CRITICAL": "75 "
+    },
+    {
+        "SHUTDOWN": "95 ",
+        "SENSOR": "Temp: PCIe Sw",
+        "SLOT": "R1",
+        "MINOR": "75 ",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "80 ",
+        "READING": "36   Celsius",
+        "CRITICAL": "85 "
+    },
+    {
+        "SHUTDOWN": "100",
+        "SENSOR": "Temp: C-Outlet",
+        "SLOT": "R1",
+        "MINOR": "80 ",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "85 ",
+        "READING": "36   Celsius",
+        "CRITICAL": "90 "
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-TPS1-1",
+        "SLOT": "R1",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "2492 mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-TPS1-2",
+        "SLOT": "R1",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "990  mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-TPS2-1",
+        "SLOT": "R1",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "996  mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-TPS2-2",
+        "SLOT": "R1",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "1484 mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-TPS3-1",
+        "SLOT": "R1",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "994  mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-TPS3-2",
+        "SLOT": "R1",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "1484 mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-TPS4-1",
+        "SLOT": "R1",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "998  mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-TPS5-1",
+        "SLOT": "R1",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "996  mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-VH",
+        "SLOT": "R1",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "11888mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-VP2",
+        "SLOT": "R1",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "1804 mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-VP3",
+        "SLOT": "R1",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "3305 mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-VP4",
+        "SLOT": "R1",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "1046 mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-VAUX1",
+        "SLOT": "R1",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "1199 mV",
+        "CRITICAL": ""
+    },
+    {
+        "SHUTDOWN": "",
+        "SENSOR": "A-VAUX2",
+        "SLOT": "R1",
+        "MINOR": "",
+        "CURRENT_STATE": "Normal",
+        "MAJOR": "",
+        "READING": "1802 mV",
+        "CRITICAL": ""
+    }
+]
