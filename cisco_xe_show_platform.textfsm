@@ -1,9 +1,0 @@
-Value SLOT (\d\/\d|\w\d)
-Value TYPE (\w\d\d\d\-\S+)
-Value STATE (\w\w|\w\w\,\s\w+)
-Value INSERT_TIME (\d\w\d\w)
-
-Start
- ^\s+${SLOT}\s+${TYPE}\s+${STATE}\s+${INSERT_TIME} -> Record
- ^${SLOT}\s+${TYPE}\s+${STATE}\s+${INSERT_TIME} -> Record  
- ^${SLOT}\s+${STATE}\s+\S+\,\s+\S+\s+${INSERT_TIME} -> Record      
