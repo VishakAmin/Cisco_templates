@@ -1,7 +1,7 @@
 # Cisco_templates
 Cisco_XE Templates
 
-Cisco Templates for Cisco XE shoe environment command
+Cisco Templates for Cisco XE show environment command <_br>
 It Includes
 
  * Python script
