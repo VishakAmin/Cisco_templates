@@ -1,9 +1,0 @@
-Value FEATURE_NAME (\w+)
-Value ENFORCEMENT (\w\w\w|\w\w)
-Value EVALUATION (\w\w\w|\w\w)
-Value SUBSCRIPTION (\w\w)
-Value ENABLED (\w\w\w|\w\w)
-Value RIGHTTOUSE (\w\w\w|\w\w)
-
-Start 
- ^${FEATURE_NAME}\s+${ENFORCEMENT}\s+${EVALUATION}\s+${SUBSCRIPTION}\s+${ENABLED}\s+${RIGHTTOUSE} -> Record
