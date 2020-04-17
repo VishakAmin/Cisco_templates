@@ -1,8 +1,0 @@
-Value SOURCE (\S+[\s+\S+\s]+\d\/\d\/\d)
-Value TIME (\S+\s+\S+\s+\S+\s+\S+)
-Value SEVERITY (\S+)
-Value SYSLOG_STRING (\S+)
-Value DESCRIPTION (\S+\s+\S+[\s+\S+\s+\S+\s+\S+]+\[\d\])
-
-Start
- ^${SOURCE}\s+${TIME}\s+${SEVERITY}\s+${SYSLOG_STRING}\s+${DESCRIPTION} -> Record
