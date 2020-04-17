@@ -1,8 +1,0 @@
-Value Required SLOT (\w\d)
-Value SENSOR (\w+\s\w+|\w+\s\:\s\w+|\w+\:\s\w+\s\d|\w+\:\s\w+\s\S+|\w+\:\s\S+|\S+|\w+\:\s+\w+\s+\w+)
-Value CURRENT_STATE (\w+\s\w+\s\S+|\w+)
-Value READING (\d+\s+\w\s\w+|\d+\s+\w+|\d\s+\w|\d+\w+)
-Value THRESHOLD (na|\(\d+\,\d+\,\d+\,\d+\)\S+|\(\-\d+\s+\,\d+\s+\,\d+\s+\)\S+|\(\d+\s+\,\d+\,\d+\,\d+\)\S+|\(\d+\s+\,\d+\s+\,\d+\s+\,\d+\s+\)\S+|\(\d+\s+\,\d+\s+\,\d+\s+\,\d+\)\S+)
-
-Start
- ^\s${SLOT}\s+${SENSOR}\s+${CURRENT_STATE}\s+${READING}\s+${THRESHOLD} -> Record
